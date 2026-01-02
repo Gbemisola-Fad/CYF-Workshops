@@ -11,6 +11,15 @@
 // Part 2: Use the Node REPL to check your answers to Part 1)
 // Part 3: Using Part 2, explain the difference between Math.trunc() and Math.floor() in your own words
 
+// Math.trunc(10.53): 10
+// Math.floor(10.53): 10
 
+// Math.trunc(-8.921): -8 
+// Math.floor(-8.921): -9 
 
+// Math.trunc(170.105): 170
+// Math.floor(170.105): 170
+
+//Math.trunc(-0.34): 0
+// Math.floor(-0.34): -1
 
