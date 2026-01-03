@@ -10,3 +10,8 @@ console.log(Math.abs());
 console.log(Math.abs(-100));
 
 // Run the file with Node to check your answer
+
+// [Funtion: abs] - A reference to the function itself.
+// NaN - JavaScript tries to convert undefined to a number. Number(undefined) results in NaN. The absolute value of NaN is still NaN.So the function returns NaN.
+// 100 - Math.abs(x) returns the absolute value of a number. The absolute value of -100 is 100.
+
